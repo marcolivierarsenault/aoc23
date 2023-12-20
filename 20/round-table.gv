@@ -1,0 +1,170 @@
+// The Machine
+digraph {
+	xf [label=xf]
+	qr [label=qr]
+	xm [label=xm]
+	zs [label=zs]
+	vg [label=vg]
+	dx [label=dx]
+	tq [label=tq]
+	pr [label=pr]
+	nb [label=nb]
+	tz [label=tz]
+	kj [label=kj]
+	hx [label=hx]
+	xh [label=xh]
+	vc [label=vc]
+	tl [label=tl]
+	bb [label=bb]
+	nn [label=nn]
+	nk [label=nk]
+	kp [label=kp]
+	bt [label=bt]
+	sr [label=sr]
+	sh [label=sh]
+	jm [label=jm]
+	kq [label=kq]
+	vs [label=vs]
+	sv [label=sv]
+	gs [label=gs]
+	kf [label=kf]
+	ct [label=ct]
+	sj [label=sj]
+	kh [label=kh]
+	nt [label=nt]
+	bn [label=bn]
+	lx [label=lx]
+	rt [label=rt]
+	ph [label=ph]
+	ls [label=ls]
+	nv [label=nv]
+	df [label=df]
+	vk [label=vk]
+	cq [label=cq]
+	hq [label=hq]
+	lg [label=lg]
+	zk [label=zk]
+	ml [label=ml]
+	pf [label=pf]
+	ff [label=ff]
+	zt [label=zt]
+	broadcaster [label=broadcaster]
+	mq [label=mq]
+	rb [label=rb]
+	pb [label=pb]
+	qz [label=qz]
+	tp [label=tp]
+	tk [label=tk]
+	gp [label=gp]
+	fk [label=fk]
+	ps [label=ps]
+	xf -> qr
+	qr -> bt
+	qr -> zt
+	xm -> gp
+	xm -> cq
+	zs -> ct
+	vg -> lg
+	dx -> bt
+	dx -> tz
+	tq -> jm
+	pr -> gp
+	pr -> pf
+	nb -> lg
+	tz -> bt
+	kj -> fk
+	hx -> rb
+	xh -> zs
+	xh -> rb
+	vc -> lg
+	tl -> bn
+	bb -> kf
+	bb -> rb
+	nn -> xf
+	nn -> bt
+	nk -> nn
+	nk -> bt
+	kp -> vk
+	bt -> tl
+	bt -> nk
+	bt -> pb
+	bt -> xf
+	bt -> vg
+	sr -> vs
+	sr -> ml
+	sh -> zk
+	jm -> ml
+	jm -> kp
+	kq -> tl
+	kq -> bt
+	vs -> tq
+	vs -> ml
+	sv -> dx
+	sv -> bt
+	gs -> gp
+	kf -> rb
+	kf -> ph
+	ct -> rt
+	ct -> rb
+	sj -> kj
+	sj -> rb
+	kh -> ml
+	nt -> gs
+	nt -> gp
+	bn -> sv
+	bn -> bt
+	lx -> ff
+	lx -> gp
+	rt -> hq
+	ph -> rb
+	ph -> hx
+	ls -> lg
+	nv -> xm
+	df -> nv
+	vk -> tk
+	cq -> gp
+	cq -> mq
+	hq -> bb
+	lg -> rx
+	zk -> ml
+	zk -> ps
+	ml -> kp
+	ml -> sr
+	ml -> tq
+	ml -> nb
+	ml -> tk
+	ml -> sh
+	ml -> vk
+	pf -> gp
+	pf -> nt
+	ff -> gp
+	ff -> df
+	zt -> pb
+	zt -> bt
+	broadcaster -> sj
+	broadcaster -> sr
+	broadcaster -> tp
+	broadcaster -> nk
+	mq -> pr
+	rb -> vc
+	rb -> zs
+	rb -> fk
+	rb -> hq
+	rb -> rt
+	rb -> sj
+	rb -> kj
+	pb -> kq
+	qz -> ml
+	qz -> kh
+	tp -> gp
+	tp -> lx
+	tk -> sh
+	gp -> df
+	gp -> ls
+	gp -> mq
+	gp -> tp
+	gp -> nv
+	fk -> xh
+	ps -> qz
+	ps -> ml
+}
